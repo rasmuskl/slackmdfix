@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95ae155ce59ffc0312056cada140111a",
+    "revision": "bd6166d28dcbd388273117abde21ddb3",
     "url": "/slackmdfix/index.html"
   },
   {
-    "revision": "bbd9f8d02d735fc531b9",
+    "revision": "6aae4623cf29aa1a2b02",
     "url": "/slackmdfix/static/css/main.5e4e9510.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/slackmdfix/static/js/2.bdaa3165.chunk.js"
   },
   {
-    "revision": "bbd9f8d02d735fc531b9",
-    "url": "/slackmdfix/static/js/main.ddb65be4.chunk.js"
+    "revision": "6aae4623cf29aa1a2b02",
+    "url": "/slackmdfix/static/js/main.8011834a.chunk.js"
   },
   {
     "revision": "dd4c901bf426478fd2ad",
