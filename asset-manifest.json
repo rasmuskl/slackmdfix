@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e4e9510.chunk.css",
-    "main.js": "/static/js/main.d1eab93d.chunk.js",
-    "main.js.map": "/static/js/main.d1eab93d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.813d0afd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.813d0afd.js.map",
-    "static/js/2.d1afcee4.chunk.js": "/static/js/2.d1afcee4.chunk.js",
-    "static/js/2.d1afcee4.chunk.js.map": "/static/js/2.d1afcee4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e11dda7acc8f248e1a640145daf8ea18.js": "/precache-manifest.e11dda7acc8f248e1a640145daf8ea18.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5e4e9510.chunk.css.map": "/static/css/main.5e4e9510.chunk.css.map"
+    "main.css": "/slackmdfix/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/slackmdfix/static/js/main.ddb65be4.chunk.js",
+    "main.js.map": "/slackmdfix/static/js/main.ddb65be4.chunk.js.map",
+    "runtime-main.js": "/slackmdfix/static/js/runtime-main.0448334c.js",
+    "runtime-main.js.map": "/slackmdfix/static/js/runtime-main.0448334c.js.map",
+    "static/js/2.bdaa3165.chunk.js": "/slackmdfix/static/js/2.bdaa3165.chunk.js",
+    "static/js/2.bdaa3165.chunk.js.map": "/slackmdfix/static/js/2.bdaa3165.chunk.js.map",
+    "index.html": "/slackmdfix/index.html",
+    "precache-manifest.b0a0b7cac98efa5ae45f40a45c072de6.js": "/slackmdfix/precache-manifest.b0a0b7cac98efa5ae45f40a45c072de6.js",
+    "service-worker.js": "/slackmdfix/service-worker.js",
+    "static/css/main.5e4e9510.chunk.css.map": "/slackmdfix/static/css/main.5e4e9510.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.813d0afd.js",
-    "static/js/2.d1afcee4.chunk.js",
+    "static/js/runtime-main.0448334c.js",
+    "static/js/2.bdaa3165.chunk.js",
     "static/css/main.5e4e9510.chunk.css",
-    "static/js/main.d1eab93d.chunk.js"
+    "static/js/main.ddb65be4.chunk.js"
   ]
 }
