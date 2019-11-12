@@ -1,5 +1,6 @@
 {
-  "name": "markdown-slackifier",
+  "name": "slackmdfix",
+  "homepage": "https://rasmuskl.github.io/slackmdfix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
