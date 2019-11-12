@@ -19,7 +19,7 @@ function App() {
 
       <div className="App" style={{display: 'flex', width: '100%', height: '100vh', alignItems: 'stretch'}}>
         <textarea style={{flex: 1}} value={text} onChange={e => setText(e.target.value)}></textarea>
-        <div style={{flex: 1, background: '#ddd'}}>{slacifyMarkdown(text)}</div>
+        <div style={{flex: 1, background: '#ddd', whiteSpace: 'pre'}}>{slacifyMarkdown(text)}</div>
       </div>
     </div>
   );
